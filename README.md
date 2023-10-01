@@ -8,15 +8,7 @@
 
 ## Overview
 
-This open-source project aims to help you efficiently manage and track your expenses using Laravel and FilamentPHP. Whether you're an individual or a business, our Expense Tracker provides a user-friendly interface to organize your finances effortlessly.
-
-## Features
-
-- **User-Friendly Interface**: Enjoy a clean and intuitive design for easy expense management.
-- **Customizable Categories**: Categorize your expenses to gain insights into your spending habits.
-- **Secure and Reliable**: Built on Laravel's security features for data protection.
-- **Admin Control**: Utilize FilamentPHP's admin panel for complete control over your financial data.
-- **Easy Deployment**: Simple setup and deployment for quick use.
+This open-source project aims to help you efficiently manage and track your expenses using Laravel and Filament. Whether you're an individual or a business, our Expense Tracker provides a user-friendly interface to organize your finances effortlessly.
 
 ## Getting Started
 
