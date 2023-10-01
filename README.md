@@ -1,5 +1,7 @@
 # Laravel Expense Tracker with FilamentPHP
 
+<img src="https://github.com/Buatin-Website/expense-tracker/actions/workflows/laravel-tests.yml/badge.svg" alt="Build Status">
+
 ## Overview
 
 This open-source project aims to help you efficiently manage and track your expenses using Laravel and FilamentPHP. Whether you're an individual or a business, our Expense Tracker provides a user-friendly interface to organize your finances effortlessly.
