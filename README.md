@@ -53,14 +53,14 @@ http://localhost:8000
 ```
 
 ## Contribution Guidelines
-We welcome contributions from the community. If you'd like to contribute, please follow our Contribution Guidelines.
+We welcome contributions from the community. If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## References
 - [Laravel](https://laravel.com/)
 - [Filament](https://filamentphp.com/)
 
 ## License
-This project is licensed under the [MIT License](https://github.com/Buatin-Website/expense-tracker/LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 For any questions or issues, please create an [issue](https://github.com/Buatin-Website/expense-tracker/issues).
