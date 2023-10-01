@@ -1,6 +1,10 @@
 # Laravel Expense Tracker with FilamentPHP
 
-<img src="https://github.com/Buatin-Website/expense-tracker/actions/workflows/laravel-tests.yml/badge.svg" alt="Build Status">
+<p>
+    <img src="https://github.com/Buatin-Website/expense-tracker/actions/workflows/laravel-tests.yml/badge.svg" alt="Build Status">
+    <img src="https://github.styleci.io/repos/7548986/shield?style=flat" alt="StyleCI Status">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Buatin-Website/expense-tracker">
+</p>
 
 ## Overview
 
