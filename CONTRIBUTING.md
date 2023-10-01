@@ -53,7 +53,7 @@ If you encounter any bugs, issues, or have feature requests, please feel free to
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the project's [MIT License](https://github.com/Buatin-Website/expense-tracker/LICENSE).
+By contributing to this project, you agree that your contributions will be licensed under the project's [MIT License](LICENSE).
 
 Thank you for contributing to the Laravel Expense Tracker with FilamentPHP project! Your involvement is greatly appreciated.
 
